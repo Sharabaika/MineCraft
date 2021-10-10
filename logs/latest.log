@@ -1,57 +1,66 @@
-[14:39:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:40:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:40:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:40:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:40:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:40:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:40:00] [main/INFO]: Reloading ResourceManager: Default
-[14:40:01] [Worker-Main-10/INFO]: Loaded 7 recipes
-[14:40:01] [Worker-Main-10/INFO]: Loaded 1137 advancements
-[14:40:02] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[14:40:02] [Server thread/INFO]: Loading properties
-[14:40:02] [Server thread/INFO]: Default game type: CREATIVE
-[14:40:02] [Server thread/INFO]: Generating keypair
-[14:40:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:40:02] [Server thread/INFO]: Using default channel type
-[14:40:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:40:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:40:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:40:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:40:02] [Server thread/INFO]: Preparing level "world"
-[14:40:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:40:03] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:40:06] [Worker-Main-8/INFO]: Preparing spawn area: 42%
-[14:40:07] [Worker-Main-9/INFO]: Preparing spawn area: 70%
-[14:40:07] [Worker-Main-8/INFO]: Preparing spawn area: 73%
-[14:40:08] [Worker-Main-8/INFO]: Preparing spawn area: 85%
-[14:40:08] [Worker-Main-10/INFO]: Preparing spawn area: 98%
-[14:40:09] [Server thread/INFO]: Time elapsed: 6498 ms
-[14:40:09] [Server thread/INFO]: Done (6.563s)! For help, type "help"
-[14:40:16] [Server thread/INFO]: MrOmap[/127.0.0.1:50561] logged in with entity id 197 at (-158.09392354811823, 73.0, -130.16674644358844)
-[14:40:16] [Server thread/INFO]: MrOmap joined the game
-[14:40:24] [Server thread/INFO]: MrOmap lost connection: Disconnected
-[14:40:24] [Server thread/INFO]: MrOmap left the game
-[14:43:12] [Server thread/INFO]: Made MrOmap a server operator
-[14:43:24] [Server thread/INFO]: MrOmap[/127.0.0.1:63190] logged in with entity id 217 at (-158.09392354811823, 73.0, -130.16674644358844)
-[14:43:24] [Server thread/INFO]: MrOmap joined the game
-[14:43:28] [Server thread/INFO]: [MrOmap: Set own game mode to Creative Mode]
-[14:43:38] [Server thread/INFO]: MrOmap lost connection: Disconnected
-[14:43:38] [Server thread/INFO]: MrOmap left the game
-[15:01:52] [Server thread/INFO]: Stopping the server
-[15:01:52] [Server thread/INFO]: Stopping server
-[15:01:52] [Server thread/INFO]: Saving players
-[15:01:52] [Server thread/INFO]: Saving worlds
-[15:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:01:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:01:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:57:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:57:57] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[21:57:57] [Worker-Main-11/INFO]: Loaded 7 recipes
+[21:57:59] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[21:57:59] [Server thread/INFO]: Loading properties
+[21:57:59] [Server thread/INFO]: Default game type: CREATIVE
+[21:57:59] [Server thread/INFO]: Generating keypair
+[21:57:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:57:59] [Server thread/INFO]: Using default channel type
+[21:58:00] [Server thread/INFO]: This server is running CraftBukkit version 3257-Bukkit-960f310 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
+[21:58:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:58:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:58:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:58:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:58:00] [Server thread/INFO]: Preparing level "world"
+[21:58:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:58:01] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:58:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:58:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:58:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:58:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:58:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:58:04] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:58:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:58:05] [Worker-Main-14/INFO]: Preparing spawn area: 11%
+[21:58:05] [Worker-Main-13/INFO]: Preparing spawn area: 68%
+[21:58:06] [Worker-Main-9/INFO]: Preparing spawn area: 71%
+[21:58:06] [Worker-Main-11/INFO]: Preparing spawn area: 81%
+[21:58:07] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[21:58:07] [Worker-Main-14/INFO]: Preparing spawn area: 87%
+[21:58:08] [Worker-Main-14/INFO]: Preparing spawn area: 92%
+[21:58:08] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[21:58:08] [Server thread/INFO]: Time elapsed: 7602 ms
+[21:58:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:58:08] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:58:09] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:58:09] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:58:10] [Worker-Main-11/INFO]: Preparing spawn area: 42%
+[21:58:10] [Worker-Main-13/INFO]: Preparing spawn area: 68%
+[21:58:11] [Worker-Main-14/INFO]: Preparing spawn area: 76%
+[21:58:11] [Worker-Main-10/INFO]: Preparing spawn area: 84%
+[21:58:12] [Worker-Main-9/INFO]: Preparing spawn area: 93%
+[21:58:12] [Server thread/INFO]: Time elapsed: 3786 ms
+[21:58:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:58:12] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:58:13] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:58:13] [Worker-Main-14/INFO]: Preparing spawn area: 34%
+[21:58:14] [Worker-Main-14/INFO]: Preparing spawn area: 86%
+[21:58:14] [Server thread/INFO]: Time elapsed: 1760 ms
+[21:58:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:58:14] [Server thread/INFO]: Done (13.802s)! For help, type "help"
+[22:10:25] [Server thread/INFO]: MrOmap[/127.0.0.1:63600] logged in with entity id 216 at ([world]223.5, 85.0, 155.5)
+[22:10:38] [Server thread/INFO]: MrOmap issued server command: /plugins
+[22:10:40] [Server thread/INFO]: MrOmap lost connection: Disconnected
+[22:10:40] [Server thread/INFO]: MrOmap left the game
+[22:10:44] [Server thread/INFO]: Stopping the server
+[22:10:44] [Server thread/INFO]: Stopping server
+[22:10:44] [Server thread/INFO]: Saving players
+[22:10:44] [Server thread/INFO]: Saving worlds
+[22:10:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:10:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:10:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
