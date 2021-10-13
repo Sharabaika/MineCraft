@@ -1,0 +1,1 @@
+tellraw @a {"text": "pack is loaded correctly, i guess..."}
