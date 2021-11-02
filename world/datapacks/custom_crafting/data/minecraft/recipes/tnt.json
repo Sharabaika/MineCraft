@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "psp",
+        "sgs",
+        "psp"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:sand"
+        },
+        "g": {
+            "item": "minecraft:gunpowder"
+        },
+        "p": {
+            "item": "minecraft:paper"
+        }
+    },
+    "result": {
+        "item": "minecraft:tnt",
+        "count": 1
+    }
+}

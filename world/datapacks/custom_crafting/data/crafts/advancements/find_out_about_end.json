@@ -1,0 +1,33 @@
+{
+  "display": {
+      "title": {
+          "text": "Эндермен, вау"
+      },
+      "description": {
+          "text": "Узнать про энд"
+      },
+      "icon": {
+          "item": "minecraft:end_stone"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false,
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+      "Start": {
+          "trigger": "minecraft:player_hurt_entity",
+          "conditions": {
+              "entity": {
+                  "type": "minecraft:enderman"
+              }
+          }
+      }
+  },
+  "rewards": {
+      "recipes": [
+          "crafts:end_portal_frame_custom"
+      ]
+  }
+}
