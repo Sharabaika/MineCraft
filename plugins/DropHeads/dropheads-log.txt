@@ -1,0 +1,4 @@
+1635866275610,mob decapitated,Sheep,bigguyreeped,[item.minecraft.stone_axe]
+1635866711617,player decapitated,bigguyreeped,OkiTy,[item.minecraft.stone_axe]
+1635867788696,mob decapitated,Zombie,OkiTy,[item.minecraft.iron_sword]
+1635872052052,mob decapitated,Cow,OkiTy,[item.minecraft.iron_axe]
