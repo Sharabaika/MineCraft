@@ -118,10 +118,10 @@ substitute-dropheads-in-give-command: true
 must-use-axe: false
 
 # Drop chances are multiplied by this number for each level of looting
-looting-mutliplier: 1.01
+looting-mutliplier: 1.1
 
 # This number is added to the drop chance for each level of looting
-looting-addition: 0.0
+looting-addition: 0.05
 
 # Defer wither skeleton skull handling to vanilla Minecraft
 # This bypasses 'head-drop-rates.txt', custom looting multiplier/addition,

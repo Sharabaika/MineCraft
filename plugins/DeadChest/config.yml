@@ -6,20 +6,20 @@
 
 # true  : Only the owner of the inventory can open the deadchest
 # false : Everybody can open dead chest of everybody
-OnlyOwnerCanOpenDeadChest: true
+OnlyOwnerCanOpenDeadChest: false
 
 # Duration of deadchest in seconds before it disappears ( 0 = infiny chest)
-DeadChestDuration: 300
+DeadChestDuration: 0
 
 # true  : Nothing can destroy a dead chest until a player get back inventory or DeadChestDuration is over.
 # false : Dead chest can be destroyable by players or explosions
-IndestuctibleChest: true
+IndestuctibleChest: false
 
 # Maximum number of deadchest per player (0 = infiny)
 maxDeadChestPerPlayer: 15
 
 # Log a message in the console when a player die with the coordinate of the deadchest
-logDeadChestOnConsole: false
+logDeadChestOnConsole: true
 
 # Players need permission deadchest.generate to generate deadchest on death ?
 # false : no permission needed
@@ -48,7 +48,7 @@ DisplayDeadChestPositionOnDeath: true
 # How a deadchest returns items to players
 # 1 : Items are pushed directly to inventory. If inventory is full, items are dropped on the ground.
 # 2 : Items are dropped on the ground
-DropMode: 1
+DropMode: 2
 
 # Wich block is used to generate the deadchest
 # 1 : CHEST
@@ -56,7 +56,7 @@ DropMode: 1
 # 3 : BARREL
 # 4 : SHULKER BOX
 # 5 : ENDER CHEST
-DropBlock: 1
+DropBlock: 3
 
 # Items drop after timeout
 # false : Items are removed when timer is over
