@@ -7,7 +7,7 @@ autoUpdater: true
 permissionExplode: false
 
 # Should be checked for WorldGuard build ability to change spawners
-useWorldGuard: true
+useWorldGuard: false
 
 # Percentage of dropping a spawner block when TNT or creepers explode
 explosionDropChance: 30
