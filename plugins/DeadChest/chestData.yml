@@ -1,1 +1,402 @@
-chestData: []
+chestData:
+- ==: ChestData
+  playerUUID: 2fc12ba6-2bde-314f-b49c-7dbde91dee2e
+  holographicTimer: world_nether;-172.5;23.799999952316284;-366.5
+  worldName: world_nether
+  as_timer_id: b766cad4-e654-4f10-b8db-3ca200b16b55
+  playerName: OkiTy
+  isInfinity: false
+  as_owner_id: b11ea718-4505-49f7-99b9-b73840f9c70a
+  chestDate: 2021-11-05T11:32:12.603Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 57
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 2
+        DIG_SPEED: 2
+      Damage: 59
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 1
+      Damage: 1262
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+      Damage: 602
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHER_BRICKS
+    amount: 12
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIRT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BLAZE_ROD
+    amount: 4
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_INGOT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 60
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BONE
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 100
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 75
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 75
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 75
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 75
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_BEEF
+    amount: 39
+  chestLocation: world_nether;-173.0;23.0;-367.0
+- ==: ChestData
+  playerUUID: 2025b995-8324-3c16-86e3-1acbb4ea4061
+  holographicTimer: world_the_end;-1216.5;73.79999995231628;-1839.5
+  worldName: world_the_end
+  as_timer_id: 0bb4aaea-7b21-404d-bc68-1c9b159aff5e
+  playerName: bigguyreeped
+  isInfinity: false
+  as_owner_id: 1d30e92f-d322-458d-bed1-e0549585a1a5
+  chestDate: 2021-11-05T21:23:26.709Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 1
+      Damage: 107
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 2
+        DIG_SPEED: 2
+      Damage: 80
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+      Damage: 49
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BAKED_POTATO
+    amount: 7
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SHULKER_SHELL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: PURPUR_STAIRS
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: PURPUR_BLOCK
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SPYGLASS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_PROJECTILE: 1
+      Damage: 115
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 1
+      Damage: 89
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 2
+      Damage: 118
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Damage: 116
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      Damage: 320
+      blockMaterial: SHIELD
+  chestLocation: world_the_end;-1217.0;73.0;-1840.0
+- ==: ChestData
+  playerUUID: 2025b995-8324-3c16-86e3-1acbb4ea4061
+  holographicTimer: world_nether;-14.5;22.799999952316284;-0.5
+  worldName: world_nether
+  as_timer_id: 41214c1b-27e8-4891-9918-868f7bcfed30
+  playerName: bigguyreeped
+  isInfinity: false
+  as_owner_id: b6d9608d-fa75-4d36-a214-402349600c35
+  chestDate: 2021-11-09T18:08:15.405Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_UNDEAD: 2
+      Damage: 259
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        SILK_TOUCH: 1
+        DIG_SPEED: 5
+      Damage: 66
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        LOOT_BONUS_BLOCKS: 3
+        MENDING: 1
+      Damage: 98
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BAKED_POTATO
+    amount: 42
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIRT
+    amount: 55
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OBSIDIAN
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: STONE
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_BEEF
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_MUTTON
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DRAGON_HEAD
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_FIRE: 4
+      Damage: 34
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+      Damage: 209
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+      Damage: 34
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      Damage: 160
+      charged: false
+  chestLocation: world_nether;-15.0;22.0;-1.0
